@@ -1,0 +1,63 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-text07 {
+  text-align: center;
+}
+.home-text08 {
+  text-align: center;
+}
+.home-text09 {
+  color: #ffffff;
+  text-align: center;
+}
+.home-text10 {
+  color: #ffffff;
+  text-align: center;
+}
+.home-text11 {
+  text-align: center;
+}
+.home-text21 {
+  text-align: center;
+}
+.home-text22 {
+  text-align: center;
+}
+.home-text23 {
+  text-align: center;
+}
+.home-text24 {
+  text-align: center;
+}
+.home-text25 {
+  text-align: center;
+}
+.home-text26 {
+  text-align: center;
+}
+.home-text27 {
+  text-align: center;
+}
+.home-text28 {
+  text-align: center;
+}
+.home-text29 {
+  text-align: center;
+}
+.home-text30 {
+  text-align: center;
+}
+@media(max-width: 991px) {
+  .home-text09 {
+    text-align: center;
+  }
+  .home-text10 {
+    text-align: center;
+  }
+}
